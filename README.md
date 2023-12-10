@@ -20,7 +20,7 @@ This project is a React application that demonstrates the use of `useReducer` in
 #### 2. Navigate to the project directory:
 
 ```
-    cd Bag
+cd Bag
 ```
 
 ### 3.Install dependencies:
@@ -37,7 +37,6 @@ To start the development server, run:
 
 ```
 npm run dev
-
 ```
 Visit http://localhost:3000 in your browser to see the application.
 
